@@ -9,3 +9,18 @@ of web pages, CSS to specify the presentation of web pages, and JavaScript to sp
 
 **high-level, dynamic, untyped interpreted ,object-oriented and functional programming styles**
 
+### 1.1 Core JavaScript
+// is the comments
+**var**  is the keyword for variable
+**Object** and **Arrays**  are two very important types
+
+**primitive types and object types**
+Primitive types: numbers, string, boolean, null,undefined
+The others are object: *arrays, function* collection of values
+
+mutable and immutable
+
+**arrays and object are mutable**
+You just need to know
+that string, number, and boolean values differ from objects in that their properties are
+read-only and that you can’t define new properties on them.
